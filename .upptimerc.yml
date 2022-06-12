@@ -3,9 +3,20 @@ repo: upptime # GitHub repository name
 sites: # List of endpoints to track
   - name: Ox Street
     url: https://oxstreet.com
-    maxResponseTime: 5000
+    maxResponseTime: 3000
+  - name: Homepage API
+    url: https://api.oxstreet.com/layouts/v1/public/homepage
+    maxResponseTime: 3000
+  - name: Product service
+    url: https://api.oxstreet.com/products/v1/healthcheck
   - name: User service
     url: https://api.oxstreet.com/users/v1/healthcheck
+  - name: Order service
+    url: https://api.oxstreet.com/orders/v1/healthcheck
+  - name: Payment service
+    url: https://api.oxstreet.com/payments/v1/healthcheck
+  - name: Layout service
+    url: https://api.oxstreet.com/layouts/v1/healthcheck
 status-website: # Status website (optional)
-  cname: /upptime # Custom domain CNAME
+  baseUrl: /upptime # Custom domain CNAME
   name: Upptime # Status website title
