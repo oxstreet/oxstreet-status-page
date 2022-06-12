@@ -1,5 +1,5 @@
 owner: oxstreet # GitHub username
-repo: upptime # GitHub repository name
+repo: oxstreet-status-page # GitHub repository name
 sites: # List of endpoints to track
   - name: Ox Street
     url: https://oxstreet.com
@@ -18,5 +18,5 @@ sites: # List of endpoints to track
   - name: Layout service
     url: https://api.oxstreet.com/layouts/v1/healthcheck
 status-website: # Status website (optional)
-  baseUrl: /upptime # Custom domain CNAME
+  baseUrl: /oxstreet-status-page # Custom domain CNAME
   name: Upptime # Status website title
