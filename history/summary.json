@@ -22,7 +22,7 @@
     "url": "https://api.oxstreet.com/layouts/v1/public/homepage",
     "icon": "https://favicons.githubusercontent.com/api.oxstreet.com",
     "slug": "homepage-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1864,
     "timeMonth": 1884,
     "timeYear": 1829,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-29": 0
+    }
   },
   {
     "name": "Product service",
