@@ -4,18 +4,20 @@
     "url": "https://oxstreet.com",
     "icon": "https://favicons.githubusercontent.com/oxstreet.com",
     "slug": "ox-street",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 206,
-    "timeDay": 160,
-    "timeWeek": 361,
-    "timeMonth": 260,
-    "timeYear": 206,
-    "dailyMinutesDown": {}
+    "time": 207,
+    "timeDay": 215,
+    "timeWeek": 350,
+    "timeMonth": 261,
+    "timeYear": 207,
+    "dailyMinutesDown": {
+      "2022-09-13": 0
+    }
   },
   {
     "name": "Homepage API",
