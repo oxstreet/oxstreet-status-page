@@ -1,7 +1,7 @@
 url: https://api.oxstreet.com/layouts/v1/public/homepage
-status: degraded
+status: up
 code: 200
-responseTime: 24120
-lastUpdated: 2022-10-15T11:47:33.729Z
+responseTime: 1918
+lastUpdated: 2022-10-15T11:53:09.364Z
 startTime: Sun Jun 12 2022 03:32:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
