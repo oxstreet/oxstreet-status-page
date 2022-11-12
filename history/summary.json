@@ -79,19 +79,19 @@
     "url": "https://api.oxstreet.com/orders/v1/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/api.oxstreet.com.ico",
     "slug": "order-service",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 348,
-    "timeDay": 5485,
-    "timeWeek": 1537,
-    "timeMonth": 709,
+    "timeDay": 3756,
+    "timeWeek": 1399,
+    "timeMonth": 696,
     "timeYear": 348,
     "dailyMinutesDown": {
-      "2022-11-12": 0
+      "2022-11-12": 6
     }
   },
   {
