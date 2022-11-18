@@ -25,18 +25,20 @@
     "url": "https://api.oxstreet.com/layouts/v1/public/homepage",
     "icon": "https://icons.duckduckgo.com/ip3/api.oxstreet.com.ico",
     "slug": "homepage-api",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2154,
-    "timeDay": 1711,
-    "timeWeek": 2349,
-    "timeMonth": 2210,
-    "timeYear": 2154,
-    "dailyMinutesDown": {}
+    "time": 2175,
+    "timeDay": 3707,
+    "timeWeek": 2769,
+    "timeMonth": 2319,
+    "timeYear": 2175,
+    "dailyMinutesDown": {
+      "2022-11-18": 0
+    }
   },
   {
     "name": "Product service",
