@@ -25,19 +25,19 @@
     "url": "https://api.oxstreet.com/layouts/v1/public/homepage",
     "icon": "https://icons.duckduckgo.com/ip3/api.oxstreet.com.ico",
     "slug": "homepage-api",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 2158,
-    "timeDay": 1587,
-    "timeWeek": 2176,
-    "timeMonth": 2213,
-    "timeYear": 2158,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2152,
+    "timeDay": 1497,
+    "timeWeek": 2096,
+    "timeMonth": 2183,
+    "timeYear": 2152,
     "dailyMinutesDown": {
-      "2022-11-24": 13
+      "2022-11-24": 0
     }
   },
   {
