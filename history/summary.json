@@ -33,7 +33,7 @@
     "uptimeYear": "99.99%",
     "time": 2165,
     "timeDay": 1720,
-    "timeWeek": 2066,
+    "timeWeek": 2207,
     "timeMonth": 2234,
     "timeYear": 2165,
     "dailyMinutesDown": {
@@ -99,18 +99,20 @@
     "url": "https://api.oxstreet.com/payments/v1/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/api.oxstreet.com.ico",
     "slug": "payment-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 189,
-    "timeWeek": 211,
-    "timeMonth": 217,
-    "timeYear": 212,
-    "dailyMinutesDown": {}
+    "time": 218,
+    "timeDay": 695,
+    "timeWeek": 335,
+    "timeMonth": 249,
+    "timeYear": 218,
+    "dailyMinutesDown": {
+      "2022-12-08": 0
+    }
   },
   {
     "name": "Layout service",
