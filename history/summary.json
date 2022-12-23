@@ -45,18 +45,20 @@
     "url": "https://api.oxstreet.com/products/v1/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/api.oxstreet.com.ico",
     "slug": "product-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 239,
-    "timeWeek": 211,
-    "timeMonth": 214,
+    "timeDay": 243,
+    "timeWeek": 216,
+    "timeMonth": 215,
     "timeYear": 221,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-23": 0
+    }
   },
   {
     "name": "User service",
