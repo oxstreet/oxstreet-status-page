@@ -25,19 +25,19 @@
     "url": "https://api.oxstreet.com/layouts/v1/public/homepage",
     "icon": "https://icons.duckduckgo.com/ip3/api.oxstreet.com.ico",
     "slug": "homepage-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 2248,
-    "timeDay": 1631,
-    "timeWeek": 2042,
-    "timeMonth": 2714,
+    "timeDay": 1858,
+    "timeWeek": 2072,
+    "timeMonth": 2704,
     "timeYear": 2248,
     "dailyMinutesDown": {
-      "2022-12-25": 0,
+      "2022-12-25": 13,
       "2022-11-24": 19
     }
   },
@@ -46,19 +46,19 @@
     "url": "https://api.oxstreet.com/products/v1/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/api.oxstreet.com.ico",
     "slug": "product-service",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 235,
-    "timeWeek": 224,
-    "timeMonth": 218,
+    "timeDay": 244,
+    "timeWeek": 228,
+    "timeMonth": 219,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2022-12-25": 0
+      "2022-12-25": 13
     }
   },
   {
@@ -66,19 +66,19 @@
     "url": "https://api.oxstreet.com/users/v1/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/api.oxstreet.com.ico",
     "slug": "user-service",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 227,
-    "timeWeek": 219,
+    "timeDay": 230,
+    "timeWeek": 221,
     "timeMonth": 217,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2022-12-25": 0
+      "2022-12-25": 13
     }
   },
   {
@@ -86,19 +86,19 @@
     "url": "https://api.oxstreet.com/orders/v1/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/api.oxstreet.com.ico",
     "slug": "order-service",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 340,
-    "timeDay": 229,
-    "timeWeek": 218,
-    "timeMonth": 351,
+    "timeDay": 234,
+    "timeWeek": 220,
+    "timeMonth": 348,
     "timeYear": 340,
     "dailyMinutesDown": {
-      "2022-12-25": 0
+      "2022-12-25": 13
     }
   },
   {
@@ -106,19 +106,19 @@
     "url": "https://api.oxstreet.com/payments/v1/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/api.oxstreet.com.ico",
     "slug": "payment-service",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 229,
-    "timeWeek": 229,
-    "timeMonth": 250,
+    "timeDay": 231,
+    "timeWeek": 230,
+    "timeMonth": 249,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2022-12-25": 0
+      "2022-12-25": 13
     }
   },
   {
@@ -126,19 +126,19 @@
     "url": "https://api.oxstreet.com/layouts/v1/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/api.oxstreet.com.ico",
     "slug": "layout-service",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 231,
-    "timeWeek": 218,
-    "timeMonth": 216,
-    "timeYear": 212,
+    "time": 213,
+    "timeDay": 242,
+    "timeWeek": 223,
+    "timeMonth": 217,
+    "timeYear": 213,
     "dailyMinutesDown": {
-      "2022-12-25": 0
+      "2022-12-25": 13
     }
   }
 ]
