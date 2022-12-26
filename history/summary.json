@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 563,
-    "timeDay": 105,
-    "timeWeek": 102,
+    "time": 561,
+    "timeDay": 135,
+    "timeWeek": 116,
     "timeMonth": 108,
-    "timeYear": 563,
+    "timeYear": 561,
     "dailyMinutesDown": {
       "2022-09-28": 17,
       "2022-09-13": 94
@@ -27,17 +27,16 @@
     "slug": "homepage-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2248,
-    "timeDay": 1858,
-    "timeWeek": 2072,
-    "timeMonth": 2704,
+    "timeDay": 1810,
+    "timeWeek": 2110,
+    "timeMonth": 2668,
     "timeYear": 2248,
     "dailyMinutesDown": {
-      "2022-12-25": 13,
       "2022-11-24": 19
     }
   },
@@ -48,18 +47,16 @@
     "slug": "product-service",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 244,
-    "timeWeek": 228,
-    "timeMonth": 219,
+    "timeDay": 226,
+    "timeWeek": 229,
+    "timeMonth": 218,
     "timeYear": 221,
-    "dailyMinutesDown": {
-      "2022-12-25": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "User service",
@@ -68,18 +65,16 @@
     "slug": "user-service",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 230,
+    "timeDay": 216,
     "timeWeek": 221,
-    "timeMonth": 217,
+    "timeMonth": 216,
     "timeYear": 217,
-    "dailyMinutesDown": {
-      "2022-12-25": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Order service",
@@ -88,18 +83,16 @@
     "slug": "order-service",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 340,
-    "timeDay": 234,
+    "time": 339,
+    "timeDay": 217,
     "timeWeek": 220,
-    "timeMonth": 348,
-    "timeYear": 340,
-    "dailyMinutesDown": {
-      "2022-12-25": 13
-    }
+    "timeMonth": 346,
+    "timeYear": 339,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Payment service",
@@ -108,18 +101,16 @@
     "slug": "payment-service",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 231,
+    "timeDay": 215,
     "timeWeek": 230,
-    "timeMonth": 249,
+    "timeMonth": 248,
     "timeYear": 218,
-    "dailyMinutesDown": {
-      "2022-12-25": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Layout service",
@@ -128,17 +119,15 @@
     "slug": "layout-service",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 242,
+    "time": 212,
+    "timeDay": 225,
     "timeWeek": 223,
-    "timeMonth": 217,
-    "timeYear": 213,
-    "dailyMinutesDown": {
-      "2022-12-25": 13
-    }
+    "timeMonth": 216,
+    "timeYear": 212,
+    "dailyMinutesDown": {}
   }
 ]
