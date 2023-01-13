@@ -45,19 +45,19 @@
     "url": "https://api.oxstreet.com/products/v1/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/api.oxstreet.com.ico",
     "slug": "product-service",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 220,
-    "timeDay": 235,
-    "timeWeek": 216,
-    "timeMonth": 211,
+    "timeDay": 222,
+    "timeWeek": 214,
+    "timeMonth": 210,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2023-01-13": 0
+      "2023-01-13": 7
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "https://api.oxstreet.com/users/v1/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/api.oxstreet.com.ico",
     "slug": "user-service",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 232,
-    "timeWeek": 217,
+    "timeDay": 217,
+    "timeWeek": 214,
     "timeMonth": 210,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2023-01-13": 0
+      "2023-01-13": 7
     }
   },
   {
