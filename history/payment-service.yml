@@ -1,7 +1,7 @@
 url: https://api.oxstreet.com/payments/v1/healthcheck
 status: up
 code: 200
-responseTime: 236
-lastUpdated: 2023-01-21T23:15:19.696Z
+responseTime: 188
+lastUpdated: 2023-01-22T23:15:40.105Z
 startTime: Sun Jun 12 2022 03:32:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
