@@ -1,7 +1,7 @@
 url: https://api.oxstreet.com/orders/v1/healthcheck
 status: up
 code: 200
-responseTime: 190
-lastUpdated: 2023-01-24T23:15:46.154Z
+responseTime: 235
+lastUpdated: 2023-01-25T23:16:22.526Z
 startTime: Sun Jun 12 2022 03:32:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
