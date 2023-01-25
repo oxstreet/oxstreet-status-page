@@ -25,18 +25,19 @@
     "url": "https://api.oxstreet.com/layouts/v1/public/homepage",
     "icon": "https://icons.duckduckgo.com/ip3/api.oxstreet.com.ico",
     "slug": "homepage-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2243,
-    "timeDay": 2067,
-    "timeWeek": 2091,
-    "timeMonth": 2172,
-    "timeYear": 2243,
+    "time": 2242,
+    "timeDay": 1966,
+    "timeWeek": 2063,
+    "timeMonth": 2163,
+    "timeYear": 2242,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-11-24": 19
     }
   },
@@ -45,18 +46,20 @@
     "url": "https://api.oxstreet.com/products/v1/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/api.oxstreet.com.ico",
     "slug": "product-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
-    "timeDay": 186,
-    "timeWeek": 206,
+    "timeDay": 197,
+    "timeWeek": 207,
     "timeMonth": 209,
     "timeYear": 219,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   },
   {
     "name": "User service",
@@ -117,17 +120,19 @@
     "url": "https://api.oxstreet.com/layouts/v1/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/api.oxstreet.com.ico",
     "slug": "layout-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 183,
-    "timeWeek": 208,
-    "timeMonth": 209,
-    "timeYear": 212,
-    "dailyMinutesDown": {}
+    "time": 216,
+    "timeDay": 717,
+    "timeWeek": 338,
+    "timeMonth": 240,
+    "timeYear": 216,
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   }
 ]
