@@ -1,7 +1,7 @@
 url: https://oxstreet.com
-status: degraded
-code: 504
-responseTime: 10414
-lastUpdated: 2023-02-04T15:43:08.260Z
+status: up
+code: 200
+responseTime: 19
+lastUpdated: 2023-02-04T15:50:25.307Z
 startTime: Sun Jun 12 2022 03:13:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
