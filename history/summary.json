@@ -4,11 +4,11 @@
     "url": "https://oxstreet.com",
     "icon": "https://icons.duckduckgo.com/ip3/oxstreet.com.ico",
     "slug": "ox-street",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "86.23%",
-    "uptimeWeek": "98.03%",
-    "uptimeMonth": "99.55%",
+    "uptimeDay": "86.71%",
+    "uptimeWeek": "98.10%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "99.91%",
     "time": 680,
     "timeDay": 2321,
@@ -16,7 +16,7 @@
     "timeMonth": 1116,
     "timeYear": 680,
     "dailyMinutesDown": {
-      "2023-02-04": 198,
+      "2023-02-04": 191,
       "2022-09-28": 17,
       "2022-09-13": 94
     }
