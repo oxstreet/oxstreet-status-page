@@ -1,7 +1,7 @@
 url: https://api.oxstreet.com/layouts/v1/healthcheck
-status: down
-code: 502
-responseTime: 1225
-lastUpdated: 2023-07-17T20:44:22.999Z
+status: up
+code: 200
+responseTime: 268
+lastUpdated: 2023-07-17T21:15:21.549Z
 startTime: Sun Jun 12 2022 03:32:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
