@@ -1,7 +1,7 @@
 url: https://api.oxstreet.com/payments/v1/healthcheck
-status: down
-code: 502
-responseTime: 1213
-lastUpdated: 2023-07-18T00:52:34.103Z
+status: up
+code: 200
+responseTime: 248
+lastUpdated: 2023-07-18T01:26:37.333Z
 startTime: Sun Jun 12 2022 03:32:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
